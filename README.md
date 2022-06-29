@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanisml
-- 👀 I’m interested in developing and analysing
-- 🌱 I’m currently learning many programming language and database development
+- 👀 I’m interested in develop, research, and analyst
+- 🌱 I’m currently focus on Java, NodeJS, and PHP programming language
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me https://ismail.id
 
