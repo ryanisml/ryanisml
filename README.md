@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ryanisml
 - 👀 I’m interested in develop, research, and analyst
-- 🌱 I’m currently focus on Java, NodeJS, and PHP programming language
+- 🌱 I’m currently work as application system specialist
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me https://ismail.id
+- 📫 You can reach me at https://ismail.id
 
 <!---
 ryanisml/ryanisml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
